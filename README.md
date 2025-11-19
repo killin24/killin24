@@ -59,7 +59,4 @@
 
 ---
 
-## 🐍 Contribution Snake Animation  
-> Add this AFTER setting up the GitHub Action 👇  
-```md
-![snake](https://raw.githubusercontent.com/killin24/killin24/output/github-contribution-grid-snake-dark.svg)
+
