@@ -14,14 +14,15 @@
 - 🌱 Currently learning **React + Python**  
 - 💻 Passionate about **Web Dev & AI**  
 - ⚡ Love building cool projects  
+- 🤖 IoT Prototyping
 - 🎯 Always leveling up  
 
 ---
 
-## 🛠️ Skills (Animated Card)
+<!--## 🛠️ Skills (Animated Card)
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&animation=fadeIn&align=center&width=1000&lineCount=2&theme=tokyonight&gap=10&fontSize=20&hideBorder=true&icons=python,react,javascript,html5,css3,mysql,c" />
-</p>
+</p> -->
 
 ---
 
